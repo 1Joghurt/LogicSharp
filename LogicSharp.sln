@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicSharp", "LogicSharp\LogicSharp.csproj", "{4EE8C47A-C958-4F91-93B5-656EE836A55F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicSharpTest", "LogicSharpTest\LogicSharpTest.csproj", "{CEF20E38-BD1C-4DD5-BB0A-B8E02B39D2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE8C47A-C958-4F91-93B5-656EE836A55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE8C47A-C958-4F91-93B5-656EE836A55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE8C47A-C958-4F91-93B5-656EE836A55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE8C47A-C958-4F91-93B5-656EE836A55F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF20E38-BD1C-4DD5-BB0A-B8E02B39D2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF20E38-BD1C-4DD5-BB0A-B8E02B39D2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF20E38-BD1C-4DD5-BB0A-B8E02B39D2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF20E38-BD1C-4DD5-BB0A-B8E02B39D2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54F8FD2-E9AF-46B9-8878-F2AF8A0A3652}
+	EndGlobalSection
+EndGlobal
